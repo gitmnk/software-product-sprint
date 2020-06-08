@@ -1,6 +1,6 @@
 # Google Software Product Sprint
 
-THIS repo contains the projects you'll work on throughout SPS.
+THIS repo contains the projects Manish work on throughout SPS.
 
 To get started:
 
